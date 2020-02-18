@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BillSplit</string>
+    <string name="str_tv_about_title">About BillSplit</string>
+    <string name="str_tv_about_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut consectetur, ligula id fermentum feugiat, nisi magna viverra risus, vitae pulvinar erat tellus quis sem. Nunc mollis viverra efficitur. Donec libero dolor, sodales sed eros ut, luctus commodo dui. Vivamus eu enim neque. Morbi volutpat mauris eu hendrerit placerat. Quisque tincidunt suscipit tincidunt. Etiam eget purus sed urna maximus condimentum.</string>
+    <string name="str_tv_about_author_title">Brought to you by:</string>
+    <string name="str_tv_about_author">©2020 Wouter Deloof</string>
+    <string name="str_split_title">BillSplit</string>
+    <string name="str_tv_split_lbl_total">Total</string>
+    <string name="hint_et_split_total">Total amount</string>
+    <string name="str_tv_split_instructions">Enter the total amount to be split among all the participants below. Then, add how many people there are. The result can be ound at the bottom.</string>
+    <string name="hint_et_split_tip">Tip?</string>
+    <string name="hint_et_split_persons">Persons</string>
+    <string name="str_btn_split_split">Split it!</string>
+    <string name="str_tv_amount_per_peson_label">You owe the group</string>
+</resources>
